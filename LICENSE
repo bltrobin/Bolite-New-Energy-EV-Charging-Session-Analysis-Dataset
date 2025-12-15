@@ -1,0 +1,112 @@
+# Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+
+**Copyright (c) 2025 Bolite New Energy Co., Ltd. (宝莱特新能源有限公司)**
+
+This dataset is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**.
+
+**Full License**: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode  
+**Human-Readable Summary**: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+---
+
+## License Summary
+
+### You are free to:
+
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material for non-commercial purposes
+
+### Under the following terms:
+
+- **Attribution** — You must give appropriate credit to Bolite New Energy Co., Ltd., provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+- **NonCommercial** — You may not use the material for commercial purposes without prior written permission from Bolite New Energy Co., Ltd. For commercial licensing inquiries, please contact Bolite New Energy Co., Ltd.
+
+- **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license (CC BY-NC-SA 4.0) as the original.
+
+- **No Re-identification** — You may not attempt to re-identify individual vehicles, users, or charging locations from this anonymized dataset. This includes combining this dataset with other data sources for de-anonymization purposes.
+
+- **No Additional Restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+### Notices:
+
+- You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
+- No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+
+---
+
+## Required Citation
+
+When using this dataset in research, publications, or derivative works, you must cite:
+
+```bibtex
+@misc{bolite_charging_dataset_2025,
+  title = {Bolite New Energy EV Charging Session Analysis Dataset},
+  author = {{Bolite New Energy Co., Ltd.}},
+  year = {2025},
+  month = {June-October},
+  note = {720 anonymized EV charging sessions with battery health metrics},
+  howpublished = {Dataset repository},
+  license = {CC BY-NC-SA 4.0}
+}
+```
+
+---
+
+## Commercial Use
+
+Commercial use of this dataset requires explicit written permission from:
+
+**Bolite New Energy Co., Ltd. (宝莱特新能源有限公司)**  
+Website: http://m.bolite.cc/
+
+Commercial use includes, but is not limited to:
+- Using the dataset in commercial products or services
+- Using the dataset for business analytics or market research
+- Training commercial machine learning models
+- Selling or licensing derivative datasets
+
+---
+
+## Privacy and Re-identification Prohibition
+
+This dataset has been anonymized to protect user privacy. As a condition of this license:
+
+1. **You must NOT attempt to re-identify** any individual vehicles, users, or locations
+2. **You must NOT combine** this dataset with other data sources for de-anonymization
+3. **You must NOT use** this dataset for surveillance or tracking purposes
+4. **You must comply** with all applicable privacy laws and regulations
+
+Violation of these terms will result in immediate termination of your license to use this dataset.
+
+---
+
+## Disclaimer of Warranties and Limitation of Liability
+
+**UNLESS OTHERWISE SEPARATELY UNDERTAKEN BY THE LICENSOR, TO THE EXTENT POSSIBLE, THE LICENSOR OFFERS THE LICENSED MATERIAL AS-IS AND AS-AVAILABLE, AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND CONCERNING THE LICENSED MATERIAL, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHER.**
+
+This includes, without limitation:
+- Warranties of title, merchantability, fitness for a particular purpose
+- Warranties of non-infringement
+- Warranties regarding accuracy, completeness, or reliability of data
+- Warranties regarding absence of latent or other defects
+
+**TO THE EXTENT POSSIBLE, IN NO EVENT WILL THE LICENSOR BE LIABLE TO YOU ON ANY LEGAL THEORY FOR ANY SPECIAL, INDIRECT, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES ARISING OUT OF THIS LICENSE OR USE OF THE LICENSED MATERIAL.**
+
+The licensor will not be liable for any data quality issues, errors, or omissions that may affect your research or applications.
+
+---
+
+## Governing License
+
+This is a human-readable summary and additional terms specific to this dataset. The complete legal terms are defined in the full Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License available at:
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+In case of any conflict between this document and the official CC BY-NC-SA 4.0 license, the official license terms shall prevail, except for the additional "No Re-identification" clause which is a specific requirement for this dataset.
+
+---
+
+**Last Updated**: December 2025  
+**License Version**: CC BY-NC-SA 4.0  
+**Dataset Version**: 1.0
